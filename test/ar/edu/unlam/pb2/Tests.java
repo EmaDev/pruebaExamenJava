@@ -73,6 +73,6 @@ public class Tests {
 	}
 	@Test 
 	public void TestDeGit() {
-		
+		System.out.println("Hello world");
 	}
 }
